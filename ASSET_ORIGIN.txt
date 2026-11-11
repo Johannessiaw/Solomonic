@@ -1,0 +1,25 @@
+Supplied media included from Solo.zip:
+photo_2026-11-11_19-47-10.jpg -> assets/surveyor-and-drone-launch-pad.webp
+photo_2026-11-11_19-48-39.jpg -> assets/surveyor-working-with-gnss-pole.webp
+photo_2026-11-11_19-47-21.jpg -> assets/survey-team-setting-up-drone.webp
+photo_2026-11-11_19-46-41.jpg -> assets/surveyor-walking-wooded-site.webp
+photo_2026-11-11_19-48-45.jpg -> assets/surveyor-at-gnss-field-site.webp
+photo_2026-11-11_19-47-17.jpg -> assets/surveyor-measuring-open-field.webp
+photo_2026-11-11_19-48-41.jpg -> assets/survey-team-with-gnss-equipment.webp
+photo_2026-11-11_19-47-03.jpg -> assets/surveyor-operating-drone-controller-closeup.webp
+photo_2026-11-11_19-46-52.jpg -> assets/drone-survey-on-field-site.webp
+photo_2026-11-11_19-49-07.jpg -> assets/surveyor-standing-in-field.webp
+photo_2026-11-11_19-46-44.jpg -> assets/field-inspection-in-woodland.webp
+photo_2026-11-11_19-46-36.jpg -> assets/surveyor-clearing-vegetation-02.webp
+photo_2026-11-11_19-47-14.jpg -> assets/site-drainage-pipe-installation.webp
+photo_2026-11-11_19-46-46.jpg -> assets/surveyor-operating-field-controller-01.webp
+photo_2026-11-11_19-49-03.jpg -> assets/drone-survey-equipment-in-field.webp
+photo_2026-11-11_19-46-32.jpg -> assets/surveyor-clearing-vegetation-01.webp
+photo_2026-11-11_19-49-00.jpg -> assets/drone-survey-team-in-field.webp
+photo_2026-11-11_19-49-10.jpg -> assets/drone-survey-field-setup.webp
+photo_2026-11-11_19-46-39.jpg -> assets/surveyor-inspecting-wooded-site.webp
+photo_2026-11-11_19-47-24.jpg -> assets/surveyor-holding-field-controller.webp
+photo_2026-11-11_19-46-50.jpg -> assets/surveyor-using-gnss-equipment.webp
+photo_2026-11-11_19-46-56.jpg -> assets/solomonic-logo.png (checkerboard background removed)
+IMG_1426.MP4 -> assets/img_1426.mp4
+IMG_1419.MP4 -> assets/img_1419.mp4
